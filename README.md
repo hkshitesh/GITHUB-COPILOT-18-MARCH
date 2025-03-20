@@ -10,3 +10,7 @@ venv\Scripts\activate
 ## Maven CICD GitHub Repo URL
 
 https://github.com/hkshitesh/GitHub-Copilpt-Maven
+
+## Legacy project URL
+
+https://github.com/hkshitesh/LegacyCode
