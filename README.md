@@ -14,3 +14,8 @@ https://github.com/hkshitesh/GitHub-Copilpt-Maven
 ## Legacy project URL
 
 https://github.com/hkshitesh/LegacyCode
+
+## Quiz 2 Leadbaord
+
+![image](https://github.com/user-attachments/assets/794f6dd4-57f2-41d2-87e4-c1919e95ac4e)
+
